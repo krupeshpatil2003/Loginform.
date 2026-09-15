@@ -13,7 +13,7 @@ body{
     position: relative;
     width: 350px;
     height: 350px;
-    background: transparent;
+    background: transparent
     border: 2px solid;
     border-radius: 20px;
     backdrop-filter: blur(20px);
